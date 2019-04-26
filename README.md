@@ -1,7 +1,58 @@
 
 # Meal Assistant
 
-**ECOne Paragraph of project description goes here
+Documentation for Coder Academy Term 1 Terminal App Project.
+An app that delivers a Weekly Meal Plan and Shopping List, written in Ruby.
+
+## Contributors
+|[![Emma Cullen](/assets/emma-cullen-70x70.jpg)](https://github.com/mcbadger88) | [![Paul Meier](/assets/paul-meier-70x70.jpg)](https://github.com/fiterr-paul) |
+|-----------|-----------|
+| Linda Lai | James Merrigan |
+
+#link to Github (Master Repositories)
+[Emma's Github link](https://github.com/mcbadger88/meal-assistant-terminal-app)
+[Paul's Github link](https://github.com/fiterr-paul/meal-assistant)
+
+#link to Trello 
+[Trello board link](https://trello.com/b/MsyY1CRu/meal-assistant-app)
+
+# brainstorm
+Concept: 
+- 'Organise My Own Weekly Meal Plan'
+- 'Generate a Shopping List'
+
+Ethical considerations/societal impact:
+- app is not currently using publicly available data
+- no senstiive, unique or personal information is being collected from users or used in app
+= therefore, minimal negative risk of societal impact
+
+Outcomes for MVP:
+- take user input
+- user can create custom ingredients
+- user can create custom meals
+- return a restaurant suggestion based on input 
+  - Include restaurant trading name, address, type of food
+  
+Outside MVP if time: 
+- how expensive e.g. $$ vs $$$ (5 scale?)
+- rating (Based on review?) e.g. 5 stars? 
+- dietary options / preferences e.g. Halal, gluten free, vego
+- random may repeat, how to deal with this? Decided to keep out of MVP but pursue if completed
+Notes from rubric meeting (info not clear from rubric):
+- 5 mins EXCL. questions
+- 80% should be app walk through (check—in slide deck or live demo??)
+- take screenshots of convos in slack / Trello and put in here
+- record all working notes in here
+
+Slack screenshots:
+![Screenshots of slack conversation 1](https://raw.githubusercontent.com/gwencitaaa/terminal_app/master/docs/Slack_screenshot_1.png)
+
+![Screenshots of slack conversation 2](https://raw.githubusercontent.com/gwencitaaa/terminal_app/master/docs/Slack_screenshot_2.png)
+
+
+
+
+
 
 ## Getting Started
 
