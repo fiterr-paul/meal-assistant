@@ -60,6 +60,17 @@ Outside MVP if time:
 - organise 
 
 
+### Project Plan & Timeline
+The scope for the Meal Assistant App MVP build was two days.
+
+Day 1 tasks and time were mostly spent on refining the overall concept, functionality and features to a scope that was deliverable within the allowed project timeframe. Once the app architecture and development plan was outline on paper and tasks allocated in Trello, coding began immediately.
+
+Day 2 tasks and time were mostly spent coding necessary modules, classes and methods and investigating how to incorporate the TTY Table Gem to print to screen the Meal and Weekly Plan table.
+
+## Challenges
+* The TTY Table Gen was definitely a challenge to incorporate into the app. The Gem's documentation was unclear and in some cases did not actually work as described.
+
+
 ## Written Notes and Diagrams
 
 ### BrainStorming for app ideas:
