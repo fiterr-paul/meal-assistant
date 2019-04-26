@@ -5,15 +5,15 @@ Documentation for Coder Academy Term 1 Terminal App Project.
 An app that delivers a Weekly Meal Plan and Shopping List, written in Ruby.
 
 ## Contributors
-|[![Emma Cullen](/assets/emma-cullen-70x70.jpg)](https://github.com/mcbadger88) | [![Paul Meier](/assets/paul-meier-70x70.jpg)](https://github.com/fiterr-paul) |
+|[![Emma Cullen](/assets/emma-cullen.jpg)](https://github.com/mcbadger88) | [![Paul Meier](/assets/paul-meier.jpg)](https://github.com/fiterr-paul) |
 |-----------|-----------|
-| Linda Lai | James Merrigan |
+| Emma Cullen | Paul Meier |
 
 ## Master Repositories
 [Emma Cullen](https://github.com/mcbadger88/meal-assistant-terminal-app) | [Paul Meier](https://github.com/fiterr-paul/meal-assistant)
 
-#link to Trello 
-[Trello board link](https://trello.com/b/MsyY1CRu/meal-assistant-app)
+## Trello Board
+[Trello Board for Meal Assistant](https://trello.com/b/MsyY1CRu/meal-assistant-app)
 
 # brainstorm
 Concept: 
