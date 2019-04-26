@@ -72,6 +72,7 @@ Paper was used for initial freeform brainstorming and scope definition.
 ![App Structure](/docs/IMG_0503.jpg)
 ![App Structure](/docs/IMG_0504.jpg)
 ![App Structure](/docs/IMG_0505.jpg)
+![App Structure](/docs/IMG_1706.jpeg)
 
 ### User Flows:
 ![App Structure](/docs/IMG_0507.jpg)
