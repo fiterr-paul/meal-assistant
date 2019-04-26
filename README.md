@@ -9,14 +9,15 @@ An app that delivers a Weekly Meal Plan and Shopping List, written in Ruby.
 |-----------|-----------|
 | Emma Cullen | Paul Meier |
 
-## Master Repositories
+### Master Repositories
 [Emma Cullen](https://github.com/mcbadger88/meal-assistant-terminal-app) | [Paul Meier](https://github.com/fiterr-paul/meal-assistant)
 
-## Trello Board
+### Trello Board
 [Trello Board for Meal Assistant](https://trello.com/b/MsyY1CRu/meal-assistant-app)
 
-# brainstorm
-Concept: 
+
+## Conecpt
+An app to: 
 - 'Organise My Own Weekly Meal Plan'
 - 'Generate a Shopping List'
 
@@ -25,6 +26,8 @@ Ethical considerations/societal impact:
 - no senstiive, unique or personal information is being collected from users or used in app
 = therefore, minimal negative risk of societal impact
 
+
+## Functionality
 Outcomes for MVP:
 - take user input
 - user can create custom ingredients
@@ -50,7 +53,7 @@ $ ruby meal_assistant_main.rb
 
 ### Prerequisites
 
-You will need to install the following Gems on your local machine using your Command Line Terminal Interface: 
+You will need to install the following Gem Package using your Command Line Terminal Interface: 
 
 ```
 $ gem install tty
