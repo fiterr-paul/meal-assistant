@@ -16,7 +16,24 @@ An app that delivers a Weekly Meal Plan and Shopping List, written in Ruby.
 [Trello Board for Meal Assistant](https://trello.com/b/MsyY1CRu/meal-assistant-app)
 
 
-## Conecpt
+## Getting Started
+
+Using your Command Line Terminal Interface, navigate to the /src folder and execute the meal_assistant_main.rb file using the following command: 
+
+```
+$ ruby meal_assistant_main.rb
+```
+
+### Prerequisites
+
+You will need to install the following Gem Package using your Command Line Terminal Interface: 
+
+```
+$ gem install tty
+```
+
+
+## Concept
 An app to: 
 - 'Organise My Own Weekly Meal Plan'
 - 'Generate a Shopping List'
@@ -43,22 +60,24 @@ Outside MVP if time:
 - organise 
 
 
-## Getting Started
+## Written Notes and Diagrams
 
-Using your Command Line Terminal Interface, navigate to the /src folder and execute the meal_assistant_main.rb file using the following command: 
+### BrainStorming for app ideas:
+Paper was used for initial freeform brainstorming and scope definition.
 
-```
-$ ruby meal_assistant_main.rb
-```
+![App Structure](/docs/IMG_0506.jpg)
 
-### Prerequisites
+### Initial Design Notes and Planning 23/04:
+![App Structure](/docs/IMG_0501.jpg)
+![App Structure](/docs/IMG_0503.jpg)
+![App Structure](/docs/IMG_0504.jpg)
+![App Structure](/docs/IMG_0505.jpg)
 
-You will need to install the following Gem Package using your Command Line Terminal Interface: 
+### User Flows:
+![App Structure](/docs/IMG_0507.jpg)
 
-```
-$ gem install tty
-```
-
+### App Structure explanation, Objects:
+![App Structure](/docs/IMG_0509.jpg)
 
 
 
@@ -78,21 +97,6 @@ Slack screenshots:
 
 
 
-## Written Notes and Diagrams
-### BrainStorming for app ideas:
-![App Structure](IMG_0506.jpg)
-
-### Initial Design Notes and Planning 23/04:
-![App Structure](IMG_0501.jpg)
-![App Structure](IMG_0503.jpg)
-![App Structure](IMG_0504.jpg)
-![App Structure](IMG_0505.jpg)
-
-### User Flows:
-![App Structure](IMG_0507.jpg)
-
-### App Structure explanation, Objects:
-![App Structure](IMG_0509.jpg)
 
 
 
