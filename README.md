@@ -15,6 +15,8 @@ An app that delivers a Weekly Meal Plan and Shopping List, written in Ruby.
 ### Trello Board
 [Trello Board for Meal Assistant](https://trello.com/b/MsyY1CRu/meal-assistant-app)
 
+## Meal Assistant App - Presentation Slides
+[![App User Stories](/assets/icon-pdf.png)](/ppt/meal_assistant.pdf)
 
 ## Getting Started
 
