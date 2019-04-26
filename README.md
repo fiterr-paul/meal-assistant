@@ -39,25 +39,14 @@ Outside MVP if time:
 - categorise printed shopping list into supermarket categories (ie: dairy, meat, fresh produce)
 - organise 
 
-Notes from rubric meeting (info not clear from rubric):
-- 5 mins EXCL. questions
-- 80% should be app walk through (check—in slide deck or live demo??)
-- take screenshots of convos in slack / Trello and put in here
-- record all working notes in here
-
-Slack screenshots:
-![Screenshots of slack conversation 1](https://raw.githubusercontent.com/gwencitaaa/terminal_app/master/docs/Slack_screenshot_1.png)
-
-![Screenshots of slack conversation 2](https://raw.githubusercontent.com/gwencitaaa/terminal_app/master/docs/Slack_screenshot_2.png)
-
-
-
-
-
 
 ## Getting Started
 
-**ECThese instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Using your Command Line Terminal Interface, navigate to the /src folder and execute the meal_assistant_main.rb file using the following command ...
+
+```
+ruby meal_assistant_main.rb
+```
 
 ### Prerequisites
 
@@ -138,6 +127,21 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Hat tip to anyone whose code was used
 * Inspiration
 * etc
+
+
+
+
+
+
+
+Slack screenshots:
+![Screenshots of slack conversation 1](https://raw.githubusercontent.com/gwencitaaa/terminal_app/master/docs/Slack_screenshot_1.png)
+
+![Screenshots of slack conversation 2](https://raw.githubusercontent.com/gwencitaaa/terminal_app/master/docs/Slack_screenshot_2.png)
+
+
+
+
 
 ## Written Notes and Diagrams
 ### BrainStorming for app ideas:
