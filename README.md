@@ -68,7 +68,12 @@ Day 1 tasks and time were mostly spent on refining the overall concept, function
 Day 2 tasks and time were mostly spent coding necessary modules, classes and methods and investigating how to incorporate the TTY Table Gem to print to screen the Meal and Weekly Plan table.
 
 ### Challenges
-The TTY Table Gen was definitely a challenge to incorporate into the app. The Gem's documentation was unclear and in some cases did not actually work as described.
+- The TTY Table Gen was definitely a challenge to incorporate into the app. The Gem's documentation was unclear and in some cases did not actually work as described.
+- Choosing which functions to scale back to a minimum (due to time restraints) also left the app without certain functionality such as the user being able to edit and delete Ingredients and Meals.
+
+
+## Meal Assistant App - User Stories
+![App User Stories](/docs/user-stories.pdf)
 
 
 ## Written Notes and Diagrams
