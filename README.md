@@ -29,14 +29,16 @@ Outcomes for MVP:
 - take user input
 - user can create custom ingredients
 - user can create custom meals
-- return a restaurant suggestion based on input 
-  - Include restaurant trading name, address, type of food
+- user can generate a weekly "calendar style" meal plan
+- user can generate a shopping list of ingredients required for their meal plan
   
 Outside MVP if time: 
-- how expensive e.g. $$ vs $$$ (5 scale?)
-- rating (Based on review?) e.g. 5 stars? 
-- dietary options / preferences e.g. Halal, gluten free, vego
-- random may repeat, how to deal with this? Decided to keep out of MVP but pursue if completed
+- user can edit saved ingredients and meals
+- user can delete saved ingredients and meals
+- alphabeticalise printed shopping list
+- categorise printed shopping list into supermarket categories (ie: dairy, meat, fresh produce)
+- organise 
+
 Notes from rubric meeting (info not clear from rubric):
 - 5 mins EXCL. questions
 - 80% should be app walk through (check—in slide deck or live demo??)
