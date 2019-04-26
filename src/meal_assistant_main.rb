@@ -98,6 +98,7 @@ def user_select_create_new_meal(prompt, meal_manager, ingredient_manager)
     # Create New Meal with user input
     new_meal = Meal.new(name, new_meal_ingredients, preference.downcase, mealtimes_array)
     meal_manager.add_meal_to_manager(new_meal)
+    system 'clear'
 end
 
 def user_select_generate_weekly_plan(meal_manager)
@@ -139,6 +140,7 @@ while true
 Cannot generate shopping list until Weekly Meal Plan has been created. Please generate Weekly Meal Plan or select a different option.
             "
         else
+            system 'clear'
             user_select_generate_shopping_list(shopping_manager, ingredient_manager, weekly_meal_hash)
         end
     elsif input == "Exit Meal Assistant"
