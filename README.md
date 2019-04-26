@@ -9,7 +9,8 @@ An app that delivers a Weekly Meal Plan and Shopping List, written in Ruby.
 |-----------|-----------|
 | Linda Lai | James Merrigan |
 
-#link to Github (Master Repositories)
+#link to Github (Master Repositories) 
+
 [Emma's Github link](https://github.com/mcbadger88/meal-assistant-terminal-app)
 [Paul's Github link](https://github.com/fiterr-paul/meal-assistant)
 
