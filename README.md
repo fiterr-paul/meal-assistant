@@ -73,7 +73,7 @@ Day 2 tasks and time were mostly spent coding necessary modules, classes and met
 
 
 ## Meal Assistant App - User Stories
-![App User Stories](/docs/user-stories.pdf)
+[![App User Stories](/assets/icon-pdf.png)](/docs/user-stories.pdf)
 
 
 ## Written Notes and Diagrams
