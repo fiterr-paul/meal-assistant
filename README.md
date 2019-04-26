@@ -5,7 +5,7 @@ Documentation for Coder Academy Term 1 Terminal App Project.
 An app that delivers a Weekly Meal Plan and Shopping List, written in Ruby.
 
 ## Contributors
-|[![Emma Cullen](/assets/emma-cullen-70x70.jpg)](https://github.com/mcbadger88) | [![Paul Meier](/assets/paul-meier-70x70.jpg)](https://github.com/fiterr-paul) |
+|[![Emma Cullen](/assets/emma-cullen-70px-70px.jpg)](https://github.com/mcbadger88) | [![Paul Meier](/assets/paul-meier-70px-70px.jpg)](https://github.com/fiterr-paul) |
 |-----------|-----------|
 | Emma Cullen | Paul Meier |
 
